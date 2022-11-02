@@ -8,20 +8,25 @@ user ids
 server ids 
 
 
-#2. Who can access the data?
+# 2. Who can access the data?
+
 Following user can access ALL of the data
 1.[Shadow.#0001](discord.com/users/714739549598908489)
 
-#3.Following people can access whitelisted users / server settings data:
+# 3.
+Following people can access whitelisted users / server settings data:
 Server Owner 
 
-#4. Why do we store the data?
+# 4.
+ Why do we store the data?
 . Bot needs to find the user who is whitelisted to prevent punishments.
 
-#5. This Privacy Policy doesn't answer my question. What should I do?
+# 5. 
+This Privacy Policy doesn't answer my question. What should I do?
 Join our [support server](discord.gg/enop) on discord.
 Contact me on discord [Shadow.#0001](discord.com/users/714739549598908489) .
 
-#6. How can we delete our entire data?
+# 6.
+ How can we delete our entire data?
 Simply join our support server and ask any in support channel to delete your entire data, We will delete your entrie data without asking any question, exceptions: user/server blacklisted IDs (discord tos / bot tos violators)
 A warning will be announced in the support server 3 days prior to policy changes.
