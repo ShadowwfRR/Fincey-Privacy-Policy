@@ -13,11 +13,11 @@ server ids
 Following user can access ALL of the data
 1.[Shadow.#0001](discord.com/users/714739549598908489)
 
-# 3.
+#2
 Following people can access whitelisted users / server settings data:
 Server Owner 
 
-# 4.
+# 3.
  Why do we store the data?
 . Bot needs to find the user who is whitelisted to prevent punishments.
 
